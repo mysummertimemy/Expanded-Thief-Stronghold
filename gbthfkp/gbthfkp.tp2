@@ -50,6 +50,12 @@ LANGUAGE ~Simplified Chinese (translation: Lewis Liu)~
          ~gbthfkp/lang/schinese/setup.tra~
          ~gbthfkp/lang/schinese/gbthfkp.tra~
 
+LANGUAGE ~Polish (by my_summertime, SoM Membress, part of CoB Clan)~
+         ~polish~
+         ~gbthfkp/lang/polish/setup.tra~
+         ~gbthfkp/lang/polish/gbthfkp.tra~
+
+
 /* ============================================= *
  *  Expanded Thief Stronghold  (main component)  *
  * ============================================= */
