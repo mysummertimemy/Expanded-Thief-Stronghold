@@ -1,0 +1,52 @@
+// TSLATH01 translation file
+@1   = ~Dobre wieœci, szefie! Wygl¹da na to, ¿e w ka¿dej chwili dotr¹ do nas posi³ki! Nadal bêdzie nam brakowaæ ludzi, ale ci dodatkowi z³odzieje powinni bardzo pomóc.~ ~Dobre wieœci, szefowo! Wygl¹da na to, ¿e w ka¿dej chwili dotr¹ do nas posi³ki! Nadal bêdzie nam brakowaæ ludzi, ale ci dodatkowi z³odzieje powinni bardzo pomóc.~
+@2 = ~Œwietnie! Ju¿ s³yszê, jak z³oto zaczyna p³yn¹æ. Wiesz mo¿e, kto to taki?~
+@3   = ~Byleby znali siê na robocie. Nie mam czasu na szkolenie nowicjuszy. Wiesz, kto to taki?~
+@4   = ~Tego mi w³aœnie brakowa³o. Wiêcej opryskliwych obiboków wa³êsaj¹cych siê po mojej gildii... Nie wiesz czasem, co to za jedni?~
+@5 = ~Grupa ch³opaków z naszego oddzia³u w Wrotach Baldura, na pó³nocy. Dowodzi nimi facet imieniem Narlen Darkwalk i kobieta, Czarna Lilia. W sumie dziesiêæ, dwanaœcie osób, mo¿e wiêcej, g³ównie...~
+@6   = ~Narlen? Czarna Lilia...?~
+@7   = ~Tak. Znasz ich?~
+@8   = ~Znam! I to dobrze! Z Narlenem znamy siê od dawna. Oboje to œwietni z³odzieje. Reszta te¿ pewnie trzyma poziom. Zastanawia mnie tylko, czemu opuœcili Wrota?~
+@9   = ~A tak. Znam tego be³kocz¹cego idiotê. Mam z nim rachunki do wyrównania. Teraz bêdzie dla mnie pracowaæ, co? Bêdê mieæ go pod pantoflem – wreszcie. Wiesz mo¿e, dlaczego tu przyje¿d¿aj¹?~
+@10  = ~Jak wiesz, ostatnie... trudnoœci... mocno przetrzebi³y nasze szeregi. Mistrzowie Cienia z ca³ego regionu wysy³aj¹ kogo mog¹, by wzmocniæ nasze si³y. Nie mo¿emy straciæ Athkatli – nie po tym, co wydarzy³o siê w Waterdeep.~
+@11  = ~Nie jestem pewien, czy to wystarczy, ale ka¿da pomoc siê liczy. Nawet jeœli wiêkszoœæ z³odziei to wyrzutki z innych gildii.~
+@12  = ~Narlen i Lilia nie s¹ ¿adnymi wyrzutkami. Spokojnie. Bêd¹ cennym nabytkiem, a reszta te¿ siê wyka¿e. Kiedy maj¹ dotrzeæ?~
+@13  = ~Hmf. Zobaczymy. Kiedy maj¹ siê pojawiæ?~
+@14  = ~Z tego, co mi powiedziano, wyruszyli ju¿ jakiœ czas temu... wiêc... mmm... zobaczmy... siedem plus osiem, przenieœæ jedynkê... momencik... koñcz¹ mi siê palce do liczenia...~
+@15  = ~No hej!~
+@16  = ~Powinni byæ tu za dzieñ, góra dwa!~
+@17  = ~Daj mi znaæ, jak tylko przyjad¹.~
+@18  = ~Oczywiœcie, szefie! Mo¿esz na mnie liczyæ!~ ~Oczywiœcie, szefowo! Mo¿esz na mnie liczyæ!~
+@19  = ~Narlen Darkwalk i Czarna Lilia przybywaj¹ do Athkatli
+
+Lathan poinformowa³ mnie, ¿e w ci¹gu najbli¿szych dni przybêd¹ posi³ki z oddzia³u gildii we Wrotach Baldura. Grupie ³otrzyków przewodz¹ nie kto inny jak Narlen Darkwalk i Czarna Lilia. Zastanawiam siê, dlaczego opuœcili Wrota?~
+@20 = ~Hej, szefie. O, jesteœ! Wyp³ynê³o coœ nowego – i lepiej, byœ zaj¹³ siê tym jak najszybciej.~ ~Hej, szefowo. O, jesteœ! Wyp³ynê³o coœ nowego – i lepiej, byœ zajê³a siê tym jak najszybciej.~
+@21 = ~Wygl¹da na to, ¿e w Dokach pojawi³ siê nowy kapitan stra¿y, i – uwierzysz albo nie – wypowiedzia³ naszej gildii wojnê! Po ostatnich k³opotach chyba on, albo ktoœ nad nim, uzna³, ¿e to idealny moment, by uderzyæ.~
+@22 = ~Nie musisz iœæ tam sam, chyba ¿e chcesz. Mam pod rêk¹ kilku naszych najlepszych skrytobójców, gotowych pomóc w ataku.~ ~Nie musisz iœæ tam sama, chyba ¿e chcesz. Mam pod rêk¹ kilku naszych najlepszych skrytobójców, gotowych pomóc w ataku.~
+@23 = ~Musisz uderzyæ na koszary stra¿y w Dokach i wybiæ ca³y garnizon. Najwa¿niejsze, ¿eby w tej operacji zgin¹³ kapitan. Ani porozmawiaæ siê z nim nie da, ani przekupiæ – wiêc to jedyna droga.~
+@24 = ~To wa¿ne: chcesz pomocy? Czy mo¿e uwa¿asz, ¿e poradzisz sobie samodzielnie? Gdybym by³ na twoim miejscu, wzi¹³bym wsparcie... ale decyzja nale¿y do ciebie.~
+@25 = ~Tak. Potrzebujê pomocy. Przydadz¹ mi siê posi³ki.~
+@26 = ~Nie, nie trzeba. Sam zajmê siê tym g³upcem.~ ~Nie, nie trzeba. Sama zajmê siê tym g³upcem.~
+@27 = ~Doskonale, doskonale! Szkoda tylko, ¿e sam nie mogê wzi¹æ udzia³u w ataku! WyjdŸ g³ównymi drzwiami – nasi ³otrzykowie bêd¹ czekali na zewn¹trz. Porozmawiasz z jednym z nich i pójd¹ za tob¹ do koszar.~
+@28 = ~Koszary stra¿y znajduj¹ siê w pó³nocno-œrodkowej czêœci Doków, dwa budynki na wschód od œwi¹tyni Oghmy. Miejsce wrêcz roi siê od stra¿ników, a sam kapitan bêdzie zapewne dobrze chroniony.~
+@29 = ~Bardzo dobrze. I tak nie mo¿emy sobie pozwoliæ na kolejne straty w ludziach. A ty nieraz ju¿ radzi³eœ sobie sam.~ ~Bardzo dobrze. I tak nie mo¿emy sobie pozwoliæ na kolejne straty w ludziach. A ty nieraz ju¿ radzi³aœ sobie sama.~
+@30 = ~Koszary s¹ w pó³nocno-œrodkowej czêœci Doków, na wschód od œwi¹tyni Oghmy. Roi siê tam od stra¿y, a kapitan bêdzie dobrze strze¿ony.~
+@31 = ~Nie zwlekaj z atakiem na garnizon, szefie. Jeœli szybko nie zlikwidujesz tego kapitana, mo¿emy byæ zmuszeni zamkn¹æ gildiê!~ ~Nie zwlekaj z atakiem na garnizon, szefowo. Jeœli szybko nie zlikwidujesz tego kapitana, mo¿emy byæ zmuszeni zamkn¹æ gildiê!~
+@32 = ~Nie zwlekaj z atakiem na garnizon, szefie. Jeœli szybko nie zlikwidujesz tego kapitana, mo¿emy byæ zmuszeni zamkn¹æ gildiê! Skrytobójcy na zewn¹trz czekaj¹ na twe rozkazy.~ ~Nie zwlekaj z atakiem na garnizon, szefowo. Jeœli szybko nie zlikwidujesz tego kapitana, mo¿emy byæ zmuszeni zamkn¹æ gildiê! Skrytobójcy na zewn¹trz czekaj¹ na twe rozkazy.~
+@33 = ~I nie zapomnij o ³otrzykach przed gildi¹. A¿ rw¹ siê do walki i pójd¹ za tob¹ prosto do koszar.~
+@34 = ~Œwietna robota, szefie! S³yszeliœmy o twoim sukcesie! To im da nauczkê, ¿e nie warto zadzieraæ z nasz¹ gildi¹! W¹tpiê, by stra¿ próbowa³a jeszcze czegoœ podobnego po tej hecy.~ ~Œwietna robota, szefowo! S³yszeliœmy o twoim sukcesie! To im da nauczkê, ¿e nie warto zadzieraæ z nasz¹ gildi¹! W¹tpiê, by stra¿ próbowa³a jeszcze czegoœ podobnego po tej hecy.~
+@35 = ~Myœlê, ¿e wkrótce wszystko wróci tu do normy.~
+@36 = ~Dam ci znaæ, jeœli pojawi siê coœ, co wymaga twojej uwagi.~
+@37 = ~Przepraszam, mogê rozmawiaæ wy³¹cznie z mistrzem gildii. Mam nadziejê, ¿e rozumiesz.~ ~Przepraszam, mogê rozmawiaæ wy³¹cznie z mistrzyni¹ gildii. Mam nadziejê, ¿e rozumiesz.~
+@38 = ~Nie zwlekaj z atakiem na garnizon, szefie. Jeœli tak dalej pójdzie, mo¿emy byæ zmuszeni zamkn¹æ gildiê! Skrytobójcy na zewn¹trz czekaj¹ na twe rozkazy.~ ~Nie zwlekaj z atakiem na garnizon, szefowo. Jeœli tak dalej pójdzie, mo¿emy byæ zmuszeni zamkn¹æ gildiê! Skrytobójcy na zewn¹trz czekaj¹ na twe rozkazy.~
+@39 = ~Atak na koszary stra¿y
+
+NajwyraŸniej w mieœcie pojawi³ siê nowy szeryf, który wyzwa³ mnie na pojedynek. Nowo mianowany kapitan stra¿y z Dzielnicy portowej poprzysi¹g³, ¿e zobaczy mnie wisz¹cego na szubienicy. To najwyraŸniej bardzo nierozs¹dny typ, który odmawia przyjêcia ³apówki. Tak dalej byæ nie mo¿e. Nie mam innego wyjœcia, jak zabiæ go, nim on dopadnie mnie. Mo¿na go znaleŸæ w koszarach, na pó³noc od siedziby mojej gildii i na wschód od lokalnej œwi¹tyni. Zaanga¿owa³em kilku moich najlepszych zabójców, aby mi pomogli w tym zadaniu. Muszê z nimi porozmawiaæ przed atakiem. Czekaj¹ na mnie tu¿ przed gildi¹, przy drzwiach wejœciowych.~ ~Atak na koszary stra¿y
+
+NajwyraŸniej w mieœcie pojawi³ siê nowy szeryf, który wyzwa³ mnie na pojedynek. Nowo mianowany kapitan stra¿y z Dzielnicy portowej poprzysi¹g³, ¿e zobaczy mnie wisz¹c¹ na szubienicy. To najwyraŸniej bardzo nierozs¹dny typ, który odmawia przyjêcia ³apówki. Tak dalej byæ nie mo¿e. Nie mam innego wyjœcia, jak zabiæ go, nim on dopadnie mnie. Mo¿na go znaleŸæ w koszarach, na pó³noc od siedziby mojej gildii i na wschód od lokalnej œwi¹tyni. Zaanga¿owa³am kilku moich najlepszych zabójców, aby mi pomogli w tym zadaniu. Muszê z nimi porozmawiaæ przed atakiem. Czekaj¹ na mnie tu¿ przed gildi¹, przy drzwiach wejœciowych.~
+@40 = ~Nie zwlekaj z atakiem na garnizon, szefie. Jeœli tak dalej pójdzie, mo¿emy byæ zmuszeni zamkn¹æ gildiê!~ ~Nie zwlekaj z atakiem na garnizon, szefowo. Jeœli tak dalej pójdzie, mo¿emy byæ zmuszeni zamkn¹æ gildiê!~
+@41 = ~Atak na koszary stra¿y
+
+NajwyraŸniej w mieœcie pojawi³ siê nowy szeryf, który wyzwa³ mnie na pojedynek. Nowo mianowany kapitan stra¿y z Dzielnicy portowej poprzysi¹g³, ¿e zobaczy mnie wisz¹cego na szubienicy. To najwyraŸniej bardzo nierozs¹dny typ, który odmawia przyjêcia ³apówki. Tak dalej byæ nie mo¿e. Nie mam innego wyjœcia, jak zabiæ go, nim on dopadnie mnie. Mo¿na go znaleŸæ w koszarach, na pó³noc od siedziby mojej gildii i na wschód od lokalnej œwi¹tyni.~ ~Atak na koszary stra¿y
+
+NajwyraŸniej w mieœcie pojawi³ siê nowy szeryf, który wyzwa³ mnie na pojedynek. Nowo mianowany kapitan stra¿y z Dzielnicy portowej poprzysi¹g³, ¿e zobaczy mnie wisz¹c¹ na szubienicy. To najwyraŸniej bardzo nierozs¹dny typ, który odmawia przyjêcia ³apówki. Tak dalej byæ nie mo¿e. Nie mam innego wyjœcia, jak zabiæ go, nim on dopadnie mnie. Mo¿na go znaleŸæ w koszarach, na pó³noc od siedziby mojej gildii i na wschód od lokalnej œwi¹tyni.~

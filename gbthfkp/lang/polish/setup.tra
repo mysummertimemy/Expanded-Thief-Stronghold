@@ -1,0 +1,18 @@
+/* ======================================================= *
+ *  GB's Expanded Thief Stronghold: Installation messages  *
+ * ======================================================= */
+
+@0  = ~Expanded Thief Stronghold mod do BG II, BG II EE i EET~
+/*@1  = ~Ten komponent wymaga dodatku Tron Bhaala.~
+@3  = ~Expanded Thief Stronghold: Ulepszone losowe spotkania (z kreacjami Kensaia Ryu, wymagany ToB)~
+@4  = ~Skrypty GB (skrypty gracza)~
+@5  = ~Wylacz komonent "Ulepszony Mae'Var" (przywraca oryginalne pliki gry)~*/
+
+@11 = ~Aby zainstalowac ten mod, musisz miec zainstalowane BG II, BGT, BG II EE lub EET.~
+
+@21 = ~Instalowanie portretow i zestawow dzwiekow...~
+@22 = ~Instalowanie dialogow...~
+@23 = ~Instalowanie skryptow...~
+@24 = ~Instalowanie stworzen...~
+@25 = ~Instalowanie przedmiotow...~
+@26 = ~Instalowanie obszarow...~

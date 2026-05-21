@@ -1,0 +1,192 @@
+/* ============================================================== *
+ *  GB's Expanded Thief Stronghold: miscellaneous strref entries  *
+ * ============================================================== */
+
+/* =========== *
+ *  Creatures  *
+ * =========== */
+
+// Black Lily sound set
+@101 = ~Przestañ siê m¹drzyæ! Muszê coœ policzyæ.~ [BLACKL02] // same as #4799 but with another sound clip
+@102 = ~Gdybym nie mia³a tego, czego ci trzeba, by³by to naprawdê najczarniejszy z dni.~ [BLACKL01] // same as #4798 but with another sound clip
+@103 = ~Auæ!~ [BLACKL03]
+@104 = ~Uch... ugh!~ [BLACKL04]
+@105 = ~Pomó¿cie mi! Proszê, pomó¿cie!~
+
+@106 = ~Gruuk W³ochacz~
+@107 = ~Stary Wyjec~
+@108 = ~Kapitan Sterling~
+@109 = ~Porucznik Betta~
+
+@111 = ~Myriza~
+@112 = ~Keltar~
+@113 = ~Genja~
+@114 = ~Gelt Foldum~
+@115 = ~Issa Kealn~
+@116 = ~Hawrath~
+
+@121 = ~Bert~
+@122 = ~Tom~
+@123 = ~Bill Huggins~
+@124 = ~Jancia~
+
+
+/* ======== *
+ *  Stores  *
+ * ======== */
+@201 = ~Mikstury Kamuzu~
+@202 = ~Paserka Czarnej Lilii~
+
+@211 = ~Solankowy grog~
+@212 = ~Mocny lager~
+@213 = ~Ale Czarnego S³oñca~
+@214 = ~Smocza Ognista~
+@215 = ~Stare Winnice~
+
+
+/* ======= *
+ *  Items  *
+ * ======= */
+@301 = ~Klucz do osobistego sejfu~
+@302 = ~To klucz do sejfu znajduj¹cego siê w twoim biurze na drugim piêtrze gildii.
+
+Jest to JEDYNY sposób otwarcia sejfu. Dobrze by³oby trzymaæ ten klucz w bezpiecznym miejscu.~
+
+@303 = ~Koci Pazur~
+@304 = ~Historia tego potê¿nego sztyletu wymyka siê wszelkim próbom wró¿enia. Nawet najpotê¿niejsze zaklêcia ukazuj¹ jedynie obraz myszy – ma³ej i szarej. Zwi¹zek miêdzy tym obrazem a broni¹ pozostaje dla ciebie tajemnic¹.
+
+PARAMETRY:
+
+Specjalne:
+– Ustawia dwa punkty bieg³oœci w walce dwiema broniami
+– Zapewnia jeden dodatkowy atak na rundê
+
+Obra¿enia: 1k4+3
+TraK0: +3
+Typ obra¿eñ: k³ute
+OpóŸnienie: 0
+Rodzaj bieg³oœci: sztylet
+Typ broni: 1-rêczna
+
+Wymagania:
+– Si³a: 3
+
+Waga: 0~
+
+@305 = ~Miecz Olidammary +4~
+@306 = ~Miecz Olidammary +4
+Uwa¿a siê, ¿e sam Olidammara, Œmiej¹cy siê £otr, podarowa³ to ostrze jednemu ze swoich ulubionych œmiertelnych z³odziei. Od tamtej pory by³o ono u¿ywane wiele razy, w wielu miejscach, przez niezliczonych ³otrzyków, rzezimieszków i szubrawców. To kapryœna broñ – jej posiadanie mo¿na uznaæ co najwy¿ej za tymczasowe. Wydaje siê... ³atwo... znikaæ, a nawet opiera siê schowaniu do pochwy; oczywiœcie mo¿e to byæ tylko twoje wra¿enie. Jak trafi³a do Faerunu, pozostaje tajemnic¹ – choæ masz nadziejê zatrzymaæ j¹ przynajmniej na jakiœ czas.
+
+PARAMETRY:
+
+Specjalne:
+– Mno¿nik ciosu w plecy: +1
+– 15% szans na wywo³anie pomieszania przy udanym trafieniu na jedn¹ turê (bez rzutu obronnego)
+
+Obra¿enia: 1k6+4
+TraK0: +4
+Typ obra¿eñ: k³ute
+OpóŸnienie: 0
+Rodzaj bieg³oœci: miecz krótki
+Typ broni: 1-rêczna
+
+Wymagania:
+– Si³a: 3
+
+Waga: 2~
+
+/* USELESS as of v3.0.0 : hardcoded in itm.file
+@124 = #6745 // Short Sword.
+@125 = #6747 // Short Sword Description.
+@126 = #6343 // Dagger.
+@127 = #6720 // Dagger Description.
+*/
+
+
+/* ========= *
+ *  Scripts  *
+ * ========= */
+
+/* Unused
+@1000 = ~To accomplish your task, Mae'Var must die. There's no going back now.~ // ar0301ddt01.baf ???
+@1002 = ~You'll pay for that!~
+*/
+
+// balduraddb01.baf
+@1001 = ~Narlen Darkwalk i jego ³otrzykowie umieœcili w twojej skrzyni skarby.~
+
+// tsdrunk1.baf
+@1003 = ~Jestem nowy w mieœcie. Podpowiesz mi, jak trafiæ do twojego mieszkania?~
+@1004 = ~A mo¿e ja podpowiem mojej piêœci, jak trafiæ w twoj¹ twarz?~
+
+@1005 = ~Czy nie widzia³em ciê gdzieœ wczeœniej?~
+@1006 = ~Tak. Dlatego ju¿ tam nie chodzê.~
+
+@1007 = ~To co, wracamy do mnie?~
+@1008 = ~No nie wiem. Dwie osoby zmieszcz¹ siê w jaskini?~
+
+@1009 = ~Do ciebie czy do mnie?~
+@1010 = ~Do obu. Ty idziesz do siebie, ja do siebie.~
+
+@1011 = ~Hej, piêkna, jaki masz znak?~
+@1012 = ~Nie wchodziæ.~
+
+@1013 = ~Jak lubisz jajka o poranku?~
+@1014 = ~Niezap³odnione!~
+
+@1015 = ~Wiem, jak zadowoliæ kobietê.~
+@1016 = ~To zacznij od zostawienia mnie w spokoju.~
+
+@1017 = ~Chcê ci siê oddaæ.~
+@1018 = ~Przykro mi, nie przyjmujê tanich prezentów.~
+
+@1019 = ~Widzê, ¿e mnie pragniesz.~
+@1020 = ~Ooo, masz racjê. Pragnê, ¿ebyœ sobie poszed³.~
+
+@1021 = ~Gdybym móg³ zobaczyæ ciê nago, umar³bym szczêœliwy.~
+@1022 = ~Tak, ale gdybym to ja zobaczy³a ciebie nago, chyba umar³abym ze œmiechu.~
+
+@1023 = ~Hej, laseczko, co powiesz na odwiedzenie paru gor¹cych miejsc?~
+@1024 = ~Przykro mi, nie umawiam siê poza w³asnym gatunkiem...~
+
+@1025 = ~Twoje cia³o jest jak œwi¹tynia.~
+@1026 = ~Przykro mi, dziœ nie ma nabo¿eñstw.~
+
+@1027 = ~Przeszed³bym dla ciebie przez wszystko.~
+@1028 = ~Œwietnie! Zacznijmy od twojej g³owy przez najbli¿sz¹ œcianê.~
+
+@1029 = ~Poszed³bym dla ciebie na koniec œwiata.~
+@1030 = ~Tak? A zosta³byœ tam?~
+
+@1031 = ~Hej, piêkna. Mo¿e spotkamy siê po twojej zmianie?~
+@1032 = ~Hmm? Wiesz... jesteœ tak ¿a³osny, ¿e a¿ trochê uroczy.~
+
+@1033 = ~Naprawdê?~
+
+// tsgbase.baf
+@1034 = ~Mo¿e byœ trochê pomóg³, co?~
+
+// tswench1.baf
+// ------------
+@1035 = ~Proszê, ch³opcze.~
+@1036 = ~Oooch! Moje biedne, obola³e nogi!~
+/* Unused
+@100 = ~Scratchy~
+@128 = ~GB Fighter:~
+@129 = ~GB Mage:~
+@130 = ~GB Cleric:~
+@131 = ~GB Cleric/Mage:~
+@132 = ~This script is suitable for fighters, paladins, rangers and thieves.~
+@133 = ~This script is suitable for magic-users (single and multi-classed) and bards, but not sorcerers.~
+@134 = ~This script is suitable for clerics and druids.~
+@135 = ~This script is suitable for the cleric/magic-user multi classed character.~
+*/
+
+
+/* ============================================================================================================= *
+ *  Usability flags                                                                                              *
+ * ------------------------------------------------------------------------------------------------------------- *
+ * Note for translators: you will find usability flags REGEXP expressions in other items mods (Rolles, Ruad...)  *
+ * ============================================================================================================= */
+@9001 = ~Mo¿e u¿ywaæ:~
+@9002 = ~Nie mo¿e u¿ywaæ:~
